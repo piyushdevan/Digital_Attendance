@@ -1,4 +1,5 @@
-![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.001.png)
+
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 001](https://github.com/user-attachments/assets/5d0e280b-e31a-485f-83ba-d0cd07fa77b2)
 
 **DIGITAL ATTENDANCE APP:Revolutionizing Attendance Management** 
 
@@ -18,13 +19,14 @@ To address these challenges, our project focuses on developing a Facial Recognit
 
 1\.  **Professor Registration:** Professors need to register first to access the app's features. During registration, they provide necessary information like name, email, and password. 
 
-![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.002.png) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.003.png)
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 002](https://github.com/user-attachments/assets/b2c1b86b-a620-47c6-91cf-47c7965462dc) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 003](https://github.com/user-attachments/assets/22468597-e2f0-4639-bb7e-94cfa0cdca7b)
 
 **Subject Management** 
 
 1. **Adding Subjects:** Once registered, professors can add subjects they are responsible for managing. 
 
-   ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.004.jpeg)
+
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 004](https://github.com/user-attachments/assets/2f797024-74ef-4877-94cb-73e0d6ac0a4e)
 
 2. **Subject Overview:** The home page displays all subjects managed by the professor along with the date and time of the last attendance taken for each subject. 
 
@@ -33,7 +35,8 @@ To address these challenges, our project focuses on developing a Facial Recognit
 1. **Taking Attendance:** Professors can initiate attendance for a specific subject by selecting it from the list and starting the attendance button. 
 1. **Attendance Monitoring:** Professors can monitor attendance in real-time and stop the attendance session when all students have marked their presence. 
 
-   ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.005.jpeg) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.006.jpeg) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.007.jpeg)
+
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 005](https://github.com/user-attachments/assets/004409fa-3f1a-4e23-95bf-0985169a1111) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 006](https://github.com/user-attachments/assets/a1dc5094-d4c6-4593-ae14-905c0176a3a6) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 007](https://github.com/user-attachments/assets/52b35a61-c18f-4ea8-aa0f-36d6f1ebe7e7)
 
 3. **Attendance Details:** Professors can view overall attendance details for a subject, as well as individual student attendance for a particular subject. 
 3. **Attendance Modification:** Professors have the option to drop attendance for a specific subject on a particular day if needed. 
@@ -54,9 +57,8 @@ To address these challenges, our project focuses on developing a Facial Recognit
 1. **Location Proximity:** The app checks if the student's device is within the location proximity of the professor. If not, the student cannot mark attendance. 
 3. **Face Recognition:** Upon proximity confirmation, the app performs face recognition to ensure the student's identity. 
 
-   ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.008.jpeg) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.009.jpeg) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.010.jpeg)
 
-![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.011.jpeg) ![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.012.png)
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 008](https://github.com/user-attachments/assets/943b63cc-7552-45dc-a04c-73a8b07e55af) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 009](https://github.com/user-attachments/assets/affc4bf6-0950-4a02-8959-77f8b377eebe) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 010](https://github.com/user-attachments/assets/86be0a21-f4ad-4ee4-9236-e189487466f1) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 011](https://github.com/user-attachments/assets/ec60f679-88dc-42d5-a25d-afa9d096d3de) ![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 012](https://github.com/user-attachments/assets/6f524acb-a2c0-4a75-ac2f-2f1094f14530)
 
 4. **Live Image Verification:** The system verifies if the image is live to prevent fraud. 
 4. **ScholarID Generation:** After successful verification, a unique ScholarID is generated for the student, enabling attendance marking. 
@@ -66,11 +68,11 @@ To address these challenges, our project focuses on developing a Facial Recognit
 
 1\.  **View Attendance Record:** Students can view their attendance records for enrolled subjects on their home page, providing transparency and accountability. 
 
-![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.013.jpeg)
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 013](https://github.com/user-attachments/assets/aa91b622-725a-475d-bb34-88a5e15b72d9)
 
 **Working of the App** 
 
-![](Aspose.Words.b9256be3-90d8-4159-bbdf-d987c35abb9e.014.jpeg)
+![Aspose Words b9256be3-90d8-4159-bbdf-d987c35abb9e 014](https://github.com/user-attachments/assets/42629e9b-c8e5-4871-a84d-413ce46a4141)
 
 **Conclusion** 
 
